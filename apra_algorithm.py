@@ -1,4 +1,4 @@
-# apra/apra_algorithm.py
+# apra/apra_algorithm.py 
 """
 APRAAlgorithm - an implementation of the Almost-Perfect Randomness Algorithm (APRA)
 Implements:
